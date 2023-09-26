@@ -1,3 +1,20 @@
 {
-    
+  "opciones": [
+    {
+      "id": 1,
+      "opcion": "Conocenos"
+    },
+    {
+      "id": 2,
+      "opcion": "Ubicacion"
+    },
+    {
+      "id": 3,
+      "opcion": "Redes Sociales"
+    },
+    {
+      "opcion": "Productos",
+      "id": 4
+    }
+  ]
 }
