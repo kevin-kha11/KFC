@@ -1,20 +1,39 @@
 {
   "opciones": [
     {
-      "id": 1,
-      "opcion": "Conocenos"
+      "id_opcion": 1,
+      "opcion": "Lo Nuevo",
+      "ruta" : ""
     },
     {
-      "id": 2,
-      "opcion": "Ubicacion"
+      "id_opcion": 2,
+      "opcion": "Por tiempo limitado",
+      "ruta" : ""
     },
     {
-      "id": 3,
-      "opcion": "Redes Sociales"
+      "id_opcion": 3,
+      "opcion": "Familiares",
+      "ruta" : ""
     },
     {
-      "opcion": "Productos",
-      "id": 4
+      "id_opcion": 4,
+      "opcion": "Individuales",
+      "ruta" : ""
+    },
+    {
+      "id_opcion": 5,
+      "opcion": "Infantiles",
+      "ruta" : ""
+    },
+    {
+      "id_opcion": 6,
+      "opcion": "A la carta",
+      "ruta" : ""
+    },
+    {
+      "id_opcion": 7,
+      "opcion": "Postres",
+      "ruta" : ""
     }
   ]
 }
